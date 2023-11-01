@@ -7,13 +7,13 @@
     "start": "wrangler dev"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20230419.0",
+    "@cloudflare/workers-types": "^4.20231025.0",
     "typescript": "^5.0.4",
-    "wrangler": "^3.0.0"
+    "wrangler": "^3.15.0"
   },
   "dependencies": {
-    "@cloudflare/ai": "^1.0.19",
+    "@cloudflare/ai": "^1.0.23",
     "cheerio": "^1.0.0-rc.12",
-    "langchain": "^0.0.166"
+    "langchain": "^0.0.177"
   }
 }
